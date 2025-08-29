@@ -12,3 +12,6 @@
     width: 100vw;
     height: 7vh;
 }
+table, th, td {
+    border: 1px solid black; 
+  }
